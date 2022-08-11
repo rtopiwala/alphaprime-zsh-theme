@@ -1,0 +1,1 @@
+# alphaprime-zsh-theme
